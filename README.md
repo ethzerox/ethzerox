@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethzerox
+- 👋 Hi, I’m @ethzerox.eth
 - 👀 I’m interested in Web3 Metavs Defi NFT Crypto...
 - 🌱 I’m currently learning Python and JavaScript 
 - 💞️ I’m looking to collaborate on projects web
